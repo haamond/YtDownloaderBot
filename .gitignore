@@ -51,4 +51,8 @@ CodeCoverage/
 # NUnit
 *.VisualState.xml
 TestResult.xml
-nunit-*.xml
+nunit-*.xml.idea/
+.idea/
+Folder.DotSettings.user
+.env
+.DS_Store
